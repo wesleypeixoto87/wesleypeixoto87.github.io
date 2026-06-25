@@ -2,7 +2,7 @@
    Estratégia: cache-first. No primeiro acesso (online) guarda tudo;
    depois o app funciona 100% offline. */
 
-const CACHE = "rugosidade-v2";
+const CACHE = "rugosidade-v3";
 const ASSETS = [
   "./",
   "./index.html",
